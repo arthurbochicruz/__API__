@@ -1,11 +1,14 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "description": "Aprendendo Node.js",
+  "description": "Apredendo node e API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
