@@ -1,7 +1,6 @@
 {
-  "name": "node",
+  "name": "node_api",
   "version": "1.0.0",
-  "description": "Apredendo node e API",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,6 +8,7 @@
   },
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "express": "^5.1.0"
   }
