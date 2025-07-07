@@ -32,3 +32,8 @@ npm install
 
 # compila o frontend e o disponibiliza através de um servidor no endereço http://localhost:3000
 npm start
+
+
+@rd31102bc 
+
+SENHA: j4EGQqU22LYdzynl
