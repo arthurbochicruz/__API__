@@ -36,4 +36,6 @@ npm start
 
 @rd31102bc 
 
-SENHA: j4EGQqU22LYdzynl
+SENHA: pGIO4BkBtB0PTmpR
+
+SENHA GERADA: Kbm6SYOrLRI7MRCw 
